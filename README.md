@@ -7,8 +7,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=itzcaesar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=itzcaesar&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=itzcaesar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=itzcaesar&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
