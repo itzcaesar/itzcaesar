@@ -1,6 +1,5 @@
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=itzcaesar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=itzcaesar&theme=dark&hide_border=false)
 
 ### 🔝 Top Contributed Repo
