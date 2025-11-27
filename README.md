@@ -5,9 +5,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=itzcaesar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=itzcaesar&theme=dark&hide_border=false)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=itzcaesar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
