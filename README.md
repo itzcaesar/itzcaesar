@@ -21,6 +21,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=itzcaesar&show_icons=true&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=dark)
+[GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=itzcaesar&show_icons=true&theme=dark)
+[GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=dark)
+[GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=dark)
