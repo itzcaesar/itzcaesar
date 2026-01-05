@@ -34,8 +34,8 @@ A passionate developer bridging the gap between robust backend systems and immer
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=vision-fast-gold" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=vision-fast-gold" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=dark" />
 </p>
 
 ---
