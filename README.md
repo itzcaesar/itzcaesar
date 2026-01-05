@@ -1,9 +1,9 @@
 
 # Hi 👋, I'm Muhammad Caesar Rifqi
 
-### A passionate fullstack developer
+### A passionate Fullstack Developer & Game Designer
 
-- 🔭 I'm currently working on **My own novel :D**
+- 🔭 I'm currently working on **amangaknih.id**
 
 - 🌱 I'm currently learning **Unity & Blender**
 
