@@ -1,9 +1,5 @@
 # <p align="center">Hey there! I'm Muhammad Caesar Rifqi 👋</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fullstack%20Developer%20&%20Game%20Designer&fontSize=40&animation=fadeIn" width="100%" />
-</p>
-
 ## 💫 About Me
 A passionate developer bridging the gap between robust backend systems and immersive game design.<br>
 I love turning complex problems into elegant, interactive experiences.
