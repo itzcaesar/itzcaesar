@@ -27,14 +27,6 @@ I love turning complex problems into elegant, interactive experiences.
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=dark" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=dark" />
-</p>
-
----
-
 ## 🤝 Connect with me
 <p align="left">
 <a href="https://github.com/itzcaesar" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="itzcaesar" /></a>
