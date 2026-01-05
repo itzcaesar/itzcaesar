@@ -34,7 +34,7 @@ A passionate developer bridging the gap between robust backend systems and immer
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=vision-fast-gold" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=vision-fast-gold" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=vision-fast-gold" />
 </p>
 
@@ -44,8 +44,4 @@ A passionate developer bridging the gap between robust backend systems and immer
 <p align="left">
 <a href="https://github.com/itzcaesar" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="itzcaesar" /></a>
 <a href="https://instagram.com/caesarfqi" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="caesarfqi" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itzcaesar&color=blueviolet" alt="Profile Views" />
 </p>
