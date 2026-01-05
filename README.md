@@ -5,7 +5,8 @@
 </p>
 
 ## 💫 About Me
-A passionate developer bridging the gap between robust backend systems and immersive game design. I love turning complex problems into elegant, interactive experiences.
+A passionate developer bridging the gap between robust backend systems and immersive game design. 
+\n I love turning complex problems into elegant, interactive experiences.
 
 - 🔭 **Currently working on:** [amangaknih.id](https://amangaknih.id)
 - 🌱 **Learning:** Unity & Blender to master 3D environments.
