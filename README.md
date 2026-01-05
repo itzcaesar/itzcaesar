@@ -19,12 +19,12 @@
 <a href="https://instagram.com/caesarfqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caesarfqi" height="30" width="40" /></a>
 </p>
 
-<h3 align="leftr">GitHub Stats:</h3>
-<p align="center">
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=itzcaesar&show_icons=true&theme=dark" />
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=dark" />
 </p>
 
-<p align="center">
+<p align="left">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=dark" />
 </p>
