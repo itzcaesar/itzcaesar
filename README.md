@@ -1,15 +1,15 @@
 
 # Hi 👋, I'm Muhammad Caesar Rifqi
 
-### A passionate Fullstack Developer & Game Designer
+### A passionate Fullstack Developer & Game Designer.
 
-- 🔭 I'm currently working on **amangaknih.id**
+- 🔭 I'm currently working on **amangaknih.id.**
 
-- 🌱 I'm currently learning **Unity & Blender**
+- 🌱 I'm currently learning **Unity & Blender.**
 
 - 🤝 I'm looking for help with **C# and Unity scripting.**
 
-- 📫 How to reach me **muhammadcaesarrifqi@gmail.com**
+- 📫 How to reach me **muhammadcaesarrifqi@gmail.com.**
 
 - 👨‍💻 All of my projects are available at **[https://caesar.is-a.dev](https://caesar.is-a.dev)**
 
