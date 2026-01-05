@@ -9,7 +9,7 @@ A passionate developer bridging the gap between robust backend systems and immer
 
 - 🔭 **Currently working on:** [amangaknih.id](https://amangaknih.id)
 - 🌱 **Learning:** Unity & Blender to master 3D environments.
-- 🤝 **Collaborations:** Open to help with C# and Unity scripting.
+- 🤝 **Collaborations:** Open to help with Full Stack Web Development & Python Projects.
 - 📧 **Reach me:** [muhammadcaesarrifqi@gmail.com](mailto:muhammadcaesarrifqi@gmail.com)
 - 🚀 **Portfolio:** [caesar.is-a.dev](https://caesar.is-a.dev)
 
