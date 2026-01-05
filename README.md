@@ -19,8 +19,6 @@
 <a href="https://instagram.com/caesarfqi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caesarfqi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-[GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=itzcaesar&show_icons=true&theme=dark)
-[GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=dark)
-[GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=itzcaesar&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=dark)
