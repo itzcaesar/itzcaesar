@@ -21,10 +21,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=itzcaesar&show_icons=true&theme=dark" />
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=dark" />
-</p>
-
-<p align="left">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=itzcaesar&layout=compact&theme=dark" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/streak?username=itzcaesar&theme=dark" />
 </p>
