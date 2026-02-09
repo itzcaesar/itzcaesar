@@ -2,7 +2,7 @@
 A passionate developer bridging the gap between robust backend systems and immersive game design.<br>
 I love turning complex problems into elegant, interactive experiences.
 
-- 🔭 **Currently working on:** [Al-Store Web](https://alstore.space/)
+- 🔭 **Currently working on:** [AL-Store](https://alstore.space/)
 - 🌱 **Learning:** Unity & Blender to master 3D environments.
 - 🤝 **Collaborations:** Open to help with Full Stack Web Development & Python Projects.
 - 📧 **Reach me:** [muhammadcaesarrifqi@gmail.com](mailto:muhammadcaesarrifqi@gmail.com)
