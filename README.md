@@ -1,23 +1,17 @@
 <div align="center">
 
-# Hi, I'm Caesar 👋
+# Caesar
 
-### Full Stack & Game Developer
+**Full Stack & Game Developer**
 
-*Building dependable web systems and exploring immersive game experiences.*
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-caesar.is--a.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://caesar.is-a.dev)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadcaesarrifqi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-itzcaesar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzcaesar)
-[![Instagram](https://img.shields.io/badge/Instagram-caesarfqi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caesarfqi)
-
-<br>
-
-`Web Development` · `Backend Engineering` · `Game Development`
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://caesar.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadcaesarrifqi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itzcaesar)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/caesarfqi)
 
 </div>
+
+---
 
 ---
 
