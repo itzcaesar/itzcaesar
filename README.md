@@ -1,13 +1,21 @@
 <div align="center">
 
-# Hi, I'm Caesar
+# Hi, I'm Caesar 👋
 
 ### Full Stack & Game Developer
 
-Building reliable web applications and exploring immersive game experiences.
+*Building dependable web systems and exploring immersive game experiences.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-caesar.is--a.dev-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://caesar.is-a.dev)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadcaesarrifqi@gmail.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-caesar.is--a.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://caesar.is-a.dev)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadcaesarrifqi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-itzcaesar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzcaesar)
+[![Instagram](https://img.shields.io/badge/Instagram-caesarfqi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caesarfqi)
+
+<br>
+
+`Web Development` · `Backend Engineering` · `Game Development`
 
 </div>
 
@@ -50,10 +58,3 @@ I'm a passionate developer bridging the gap between **robust backend systems** a
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-itzcaesar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzcaesar)
-[![Instagram](https://img.shields.io/badge/Instagram-caesarfqi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caesarfqi)
