@@ -1,6 +1,6 @@
-<div align="left">
+<div align="center">
 
-# Caesar
+## Hi, im Caesar
 
 **Full Stack & Game Developer**
 
