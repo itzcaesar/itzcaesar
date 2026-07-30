@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Caesar
 
@@ -10,8 +10,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/caesarfqi)
 
 </div>
-
----
 
 ---
 
