@@ -2,11 +2,11 @@
 A passionate developer bridging the gap between robust backend systems and immersive game design.<br>
 I love turning complex problems into elegant, interactive experiences.
 
-- **Currently working on:** [AL-Store](https://alstore.space/) and [Quill](quill.itzcaesar.space)
+- **Currently working on:** [AL-Store](https://alstore.space/) and [Quill](quill.itzcaesar.space).
 - **Learning:** Unity & Blender to master 3D environments.
 - **Collaborations:** Open to help with Full Stack Web Development & Game Projects.
-- **Reach me:** [muhammadcaesarrifqi@gmail.com](mailto:muhammadcaesarrifqi@gmail.com)
-- **Portfolio:** [caesar.is-a.dev](https://caesar.is-a.dev)
+- **Reach me:** [muhammadcaesarrifqi@gmail.com](mailto:muhammadcaesarrifqi@gmail.com).
+- **Portfolio:** [caesar.is-a.dev](https://caesar.is-a.dev).
 
 ---
 
