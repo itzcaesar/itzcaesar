@@ -14,8 +14,6 @@
 
 <br>
 
-`Web Development` · `Backend Engineering` · `Game Development`
-
 </div>
 
 ---
