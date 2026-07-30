@@ -7,7 +7,7 @@ I love turning complex problems into elegant, interactive experiences.
 - **Collaborations:** Open to help with Full Stack Web Development & Game Projects.
 - **Reach me:** [muhammadcaesarrifqi@gmail.com](mailto:muhammadcaesarrifqi@gmail.com).
 - **Portfolio:** [caesar.is-a.dev](https://caesar.is-a.dev).
-- **Socials:** [@caesarfqi](https://instagram.com/caesarfqi)
+- **Socials:** [@caesarfqi](https://instagram.com/caesarfqi).
 
 ---
 
@@ -38,4 +38,3 @@ I love turning complex problems into elegant, interactive experiences.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
-</p>
