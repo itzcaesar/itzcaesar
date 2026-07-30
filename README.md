@@ -10,7 +10,6 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-caesar.is--a.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://caesar.is-a.dev)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadcaesarrifqi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-itzcaesar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itzcaesar)
 [![Instagram](https://img.shields.io/badge/Instagram-caesarfqi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caesarfqi)
 
 <br>
