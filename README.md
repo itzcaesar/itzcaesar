@@ -1,16 +1,20 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=190&section=header&text=Muhammad%20Caesar%20Rifqi&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%26%20Game%20Developer&descAlignY=58&descSize=18" alt="Header" />
+# Hey, I'm Muhammad Caesar Rifqi 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+robust+web+experiences;Turning+complex+ideas+into+clean+solutions;Exploring+3D+worlds+with+Unity+%26+Blender" alt="Typing animation" />
-</a>
+### Full Stack & Game Developer
+
+Building reliable web systems and exploring immersive game experiences.
+
+<br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-caesar.is--a.dev-7F7FD5?style=for-the-badge&logo=vercel&logoColor=white)](https://caesar.is-a.dev)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadcaesarrifqi@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-caesarfqi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caesarfqi)
 
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
@@ -40,9 +44,9 @@ I enjoy turning complex ideas into elegant, interactive experiences.
 
 > ### [AL-Store](https://alstore.space/)
 >
-> A modern digital shopping experience built with a focus on reliability, performance, and clean user experience.
+> A modern digital shopping experience focused on reliability, performance, and clean user experience.
 >
-> **[Explore the project →](https://alstore.space/)**
+> **[Explore AL-Store →](https://alstore.space/)**
 
 ---
 
@@ -53,7 +57,5 @@ I enjoy turning complex ideas into elegant, interactive experiences.
 [GitHub](https://github.com/itzcaesar) •
 [Portfolio](https://caesar.is-a.dev) •
 [Email](mailto:muhammadcaesarrifqi@gmail.com)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:91EAE4,50:86A8E7,100:7F7FD5&height=100&section=footer" alt="Footer" />
 
 </div>
