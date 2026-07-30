@@ -1,27 +1,12 @@
-<div align="center">
-
-## Hi, im Caesar
-
-**Full Stack & Game Developer**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=googlechrome&logoColor=white)](https://caesar.is-a.dev)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadcaesarrifqi@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/itzcaesar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/caesarfqi)
-
-</div>
-
----
-
 ## About Me
-
-I'm a passionate developer bridging the gap between **robust backend systems** and **immersive game design**. I enjoy turning complex problems into elegant, interactive experiences.
+A passionate developer bridging the gap between robust backend systems and immersive game design.<br>
+I love turning complex problems into elegant, interactive experiences.
 
 - **Currently working on:** [AL-Store](https://alstore.space/)
-- **Learning:** Unity and Blender for creating 3D environments
-- **Collaborations:** Open to Full Stack Web Development and Python projects
+- **Learning:** Unity & Blender to master 3D environments.
+- **Collaborations:** Open to help with Full Stack Web Development & Game Projects.
+- **Reach me:** [muhammadcaesarrifqi@gmail.com](mailto:muhammadcaesarrifqi@gmail.com)
 - **Portfolio:** [caesar.is-a.dev](https://caesar.is-a.dev)
-- **Contact:** [muhammadcaesarrifqi@gmail.com](mailto:muhammadcaesarrifqi@gmail.com)
 
 ---
 
@@ -50,3 +35,11 @@ I'm a passionate developer bridging the gap between **robust backend systems** a
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## Connect with me
+<p align="left">
+<a href="https://github.com/itzcaesar" target="blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="itzcaesar" /></a>
+<a href="https://instagram.com/caesarfqi" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="caesarfqi" /></a>
+</p>
